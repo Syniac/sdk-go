@@ -1,3 +1,3 @@
-module github.com/yourorg/syniac-sdk-go
+module github.com/Syniac/syniac-sdk-go
 
 go 1.20
